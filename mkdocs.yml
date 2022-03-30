@@ -1,4 +1,4 @@
-site_name: Wizeline MkDocs Template
+site_name: Empire Takeover Unofficial Wiki
 nav:
   - Home: index.md
   - About: about.md
@@ -8,4 +8,4 @@ theme:
   palette:
     primary: black
     accent: indigo
-  logo: images/wizeline_isotype.png
+  logo: images/etlogo.png
